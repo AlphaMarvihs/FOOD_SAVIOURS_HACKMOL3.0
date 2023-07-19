@@ -1,8 +1,6 @@
 <p align="center"><strong> 🔥 HACKMOL 3.0 🔥 </strong></p>
 <p align="center">Project : FOOD SAVIOURS </p><br>
-
-
-
+<p align="center"> <img src="website/photos/Logo.png"> </p><br>
 <p align="center">🏆 THE A TEAM 🏆</p>
 <br>Tech Stack used is<br> 
 
